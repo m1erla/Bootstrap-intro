@@ -1,0 +1,48 @@
+h1,h2,h3,h4,h5,h6{
+    -webkit-text-fill-color:burlywood;
+}
+
+
+.container {
+    height: 70px;
+    width: 100%;
+    background-color: #424242;
+  }
+
+  .container a{
+    color: rgb(37, 26, 26);
+  }
+
+  .header-link h2 {
+    color: red;
+  }
+  
+ .body{
+       background-color: #E9ECEF ;
+ }
+
+ .jumbotron {
+    text-align: center;
+  }
+  
+  .alet {
+    text-align: center;
+  }
+
+  .container h4 {
+    color: green;
+    margin-top: 30px;
+  }
+
+  ul{
+    text-align: center;
+  }
+  
+  .card {
+    margin-top: 100px;
+    text-align: center;
+    
+  }
+  p{
+    color: antiquewhite;
+  }
